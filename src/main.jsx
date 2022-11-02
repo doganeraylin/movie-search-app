@@ -11,7 +11,3 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 
 
-
-
-
-ReactDOM.render(<Main />, document.getElementById('root'));
